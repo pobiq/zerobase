@@ -1,1 +1,1 @@
-# zerobase 과제 폴더
+# zerobase misson1 과제 폴더
