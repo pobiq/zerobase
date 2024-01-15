@@ -1,0 +1,19 @@
+#menus {
+	margin-top : 0px;
+	margin-bottom : 40px;
+	list-style : none;
+	padding : 0px;
+}
+		
+#menus > li {
+	float : left;
+}
+
+#menus > li:not(:first-child) {
+	padding-left : 10px;
+}
+
+#menus > li:not(:last-child) {
+	border-right : 1px solid black;
+	padding-right : 10px;
+}
